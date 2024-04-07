@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\bin\Debug\net8.0\Static, Interface, Extension.exe
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\bin\Debug\net8.0\Static, Interface, Extension.deps.json
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\bin\Debug\net8.0\Static, Interface, Extension.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\bin\Debug\net8.0\Static, Interface, Extension.dll
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\bin\Debug\net8.0\Static, Interface, Extension.pdb
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.dll
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\refint\Static, Interface, Extension.dll
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.pdb
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\Static, Interface, Extension.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\Static, Interface, Extension\obj\Debug\net8.0\ref\Static, Interface, Extension.dll
